@@ -1,6 +1,6 @@
 # Urban Africa
 *The African continent is vast and diverse, but one constant holds true across it: a rapid migration from rural areas to expanding cities.*
-![alter text](/img/main.png)
+![alter text](/img/main.PNG)
 ___
 **Review by Byungchan Lim
 3/12/2021
@@ -23,7 +23,7 @@ The webpage is though saved and uploaded in ESRI’s ArcGIS StoryMaps. Interesti
 The story map allows clients and viewers to interactively click on images, and data on maps. Clicking on images allows them to view it larger, clicking on map data will trigger pop up, and zoom to pre-set area.
 | OptanonWrapper function | Pop up example |
 | --- | --- |
-| ![alter text](/img/cookie.png) | ![alter text](/img/popup.png)|
+| ![alter text](/img/cookie.PNG) | ![alter text](/img/popup.PNG)|
 | Figure 1 | Figure 2 |
 
 #### UI/UX and Web Mapping Design
@@ -31,7 +31,7 @@ This story map has done excellent job on design in my opinion. Clean white backg
 
 There are 3 sets of maps and they are all pre-set to same geolocation. When needed to zoom to particular area, it is designed to click as a reader to zoom in and out instead of automated feature. It allows readers to follow along on their own pace. Each map is developed by ESRI’s UI making it quick response to each click. The maps are using light theme as a basemap from ArcGIS.
 
-| <img src="img/format.png" width="800" height="500">  |
+| <img src="img/format.PNG" width="800" height="500">  |
 | :---|
 | Figure 3 |
 #### Pros and Cons
@@ -42,7 +42,7 @@ Because the map contains huge data, pop up seems to be little slow (it may due t
 #### Conclusion and Reflection
 After World War 2, urbanization around the globe has been rapidly growing. More people started living in cities, move out of town for greater success. Today’s developed countries like US started major urbanization from early 1950s, while Latin America and Asia took place in few decades later. The gap between urbanized countries and developing countries in Asia is huge. After careful review of this story map, I found out that Africa has even more gap. And it is time for their turn for rapid growth in cities. Urbanization in Africa will bring their population together which will create more demand and more jobs. However, urbanization is not only a good thing. Countries in Africa are still in developing phase where their medical is one of the most concerning issues. As we learned our lesson from recent Covid-19 outbreak, people disease is going to happen again in the future. Clustered in one area will worsen the situation.
 
-Geovisualization allows decision makers to quickly adapt to current situation. If I was in a decision making position, I would highly invest in inventing effective ways to produce clean water first. As shown in the map, more dense population is found near water. 
+Geovisualization allows decision makers to quickly adapt to current situation. If I was in a decision making position, I would highly invest in inventing effective ways to produce clean water first. As shown in the map, more dense population is found near water.
 
 ___
 #### Work Cited
